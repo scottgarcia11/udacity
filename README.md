@@ -1,2 +1,2 @@
 # udacity
-Repository for udacity assignments
+Repository for udacity assignments - specifically javascript for now.
